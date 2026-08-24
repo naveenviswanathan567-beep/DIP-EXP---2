@@ -27,8 +27,8 @@ Step 5:
 Resize the frame and rotate it using OpenCV functions, then display the processed frames.
 
 ## 💻 Program
-Developed By: KALPESH C
-Register No: 212225230121
+Developed By: NAVEEN V
+Register No: 212225240098
 ```
 import cv2
 import matplotlib.pyplot as plt
